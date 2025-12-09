@@ -1,0 +1,3 @@
+Total Sales = SUM(Orders[Sales])
+Total Quantity = SUM(Orders[Quantity])
+Total Profit = SUM(Orders[Profit])
